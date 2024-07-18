@@ -11,7 +11,7 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-For any questions or support, please reach out to your-email@example.com.
+For any questions or support, please reach out rajaramees005@gmail.com
 
 Thank you for using the User Account Deletion scripts! We hope these tools make your server management tasks easier and more efficient.
 
