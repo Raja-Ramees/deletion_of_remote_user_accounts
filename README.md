@@ -209,7 +209,7 @@ For any questions or support, please reach out to your-email@example.com.
 Thank you for using the User Account Deletion scripts! We hope these tools make your server management tasks easier and more efficient.
 
 ### Key Points:
-
+- **Author Raja Ramees
 - **Repository Contents**: Lists the files and their purposes.
 - **Overview**: Explains each script and its functionality.
 - **Features**: Highlights the benefits of using the scripts.
@@ -218,7 +218,7 @@ Thank you for using the User Account Deletion scripts! We hope these tools make 
 - **Usage**: Instructions for running each script.
 - **Example**: Provides a real-world scenario for clarity.
 - **Contributing**: Encourages collaboration and contributions.
-- **License**: Mentions the licensing details.
-- **Contact**: Provides an email for support.
+- **License**: this project is under the the MNT license.
+- **Contact**: rajaramees005@gmail.com
 
 Feel free to customize the contact information and any other details to suit your needs.
